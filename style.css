@@ -1,0 +1,28 @@
+body{
+    background-image: url("car.jpg");
+    font-size: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+button{
+    background-color: #256927; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 16px;
+    margin-left: 20%;
+    margin-top: 10%;
+    font-weight: bolder;
+    border-radius: 20px;
+    margin-right: 20%;
+    justify-content: center;
+  
+}
+
+button:hover{
+    color: #91e194;
+}
